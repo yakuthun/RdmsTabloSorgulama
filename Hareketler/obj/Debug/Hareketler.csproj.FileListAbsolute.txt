@@ -1,0 +1,10 @@
+C:\Users\yakut\source\repos\Hareketler\Hareketler\bin\Debug\Hareketler.exe.config
+C:\Users\yakut\source\repos\Hareketler\Hareketler\bin\Debug\Hareketler.exe
+C:\Users\yakut\source\repos\Hareketler\Hareketler\bin\Debug\Hareketler.pdb
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.AssemblyReference.cache
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.Form1.resources
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.Properties.Resources.resources
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.GenerateResource.cache
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.CoreCompileInputs.cache
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.exe
+C:\Users\yakut\source\repos\Hareketler\Hareketler\obj\Debug\Hareketler.pdb
